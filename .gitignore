@@ -1,0 +1,5 @@
+*.dSYM
+src/*.dSYM
+.vscode
+src/.vscode
+src/proxy
